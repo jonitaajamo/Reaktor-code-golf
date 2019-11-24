@@ -1,7 +1,7 @@
 # Reaktor-code-golf
-My and [Valtteri Kodisto's](https://github.com/valtterikodisto) winning implementations to Reaktor Code Golf 2019 competition.
+My and [Valtteri Kodisto's](https://github.com/valtterikodisto) winning implementations for Reaktor Code Golf 2019 competition.
 
-Thank you Reaktor for amazing competition.
+Thank you Reaktor for the amazing competition.
 
 ### Assignments &copy; Reaktor:
 
