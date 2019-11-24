@@ -3,7 +3,7 @@ My and [Valtteri Kodisto's](https://github.com/valtterikodisto) winning implemen
 
 Thank you Reaktor for amazing competition.
 
-Assignments &copy; Reaktor:
+### Assignments &copy; Reaktor:
 
 ## [Product of Consecutive Numbers](https://github.com/jonitaajamo/Reaktor-code-golf/blob/master/code/numbers.py)
 Our implementation's character count: 137
